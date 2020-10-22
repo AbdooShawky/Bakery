@@ -629,7 +629,7 @@ a{
         font-size: 15px ;
     }
     .navbar{
-        position: fixed;
+        position: static;
     }
     .left-menu{
         width: 35%;
